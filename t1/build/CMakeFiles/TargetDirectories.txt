@@ -1,0 +1,3 @@
+/home/hang/cmake/build/CMakeFiles/edit_cache.dir
+/home/hang/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/hang/cmake/build/CMakeFiles/hello.dir
